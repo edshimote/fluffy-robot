@@ -52,7 +52,7 @@
     /* SAKURA */
     --sak-bg: #10020c; --sak-card: #150310; --sak-border: #7a1a5a;
     --sak-accent: #ff6ec7; --sak-accent2: #d9a8ff; --sak-text: #f5c8e6;
-    --sak-muted: #9a4a78; --sak-glow: rgba(220,60,160,0.32);
+    --sak-muted: #d492b8; --sak-glow: rgba(220,60,160,0.32);
     --sak-grad: linear-gradient(135deg, #10020c 0%, #260a2c 50%, #08010a 100%);
     --sak-bar1: #7a1a5a; --sak-bar2: #ff6ec7;
     /* SASUKE */
