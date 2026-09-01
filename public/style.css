@@ -50,11 +50,11 @@
     --nar-grad: linear-gradient(135deg, #0a0500 0%, #1e0e00 50%, #050200 100%);
     --nar-bar1: #7a3a00; --nar-bar2: #ff8c00;
     /* SAKURA */
-    --sak-bg: #10020c; --sak-card: #150310; --sak-border: #7a1a5a;
-    --sak-accent: #ff6ec7; --sak-accent2: #d9a8ff; --sak-text: #f5c8e6;
-    --sak-muted: #d492b8; --sak-glow: rgba(220,60,160,0.32);
-    --sak-grad: linear-gradient(135deg, #10020c 0%, #260a2c 50%, #08010a 100%);
-    --sak-bar1: #7a1a5a; --sak-bar2: #ff6ec7;
+    --sak-bg: #0e0014; --sak-card: #120018; --sak-border: #6a0a5a;
+    --sak-accent: #ff8aec; --sak-accent2: #ffc6f5; --sak-text: #f0d0ee;
+    --sak-muted: #8a4a80; --sak-glow: rgba(220,50,180,0.35);
+    --sak-grad: linear-gradient(135deg, #0e0014 0%, #220030 50%, #080010 100%);
+    --sak-bar1: #6a0a5a; --sak-bar2: #ff8aec;
     /* SASUKE */
     --sas-bg: #04000a; --sas-card: #080010; --sas-border: #4a0a7a;
     --sas-accent: #9040ff; --sas-accent2: #c080ff; --sas-text: #d8c0f0;
