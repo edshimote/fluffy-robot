@@ -1,0 +1,21 @@
+UCHIHA ARCHIVES — V5 | OS TRÊS CLÃS DA ANBU
+
+ABERTURA: abra public/index.html no navegador.
+DOSSIÊS: public/ninjas.html (100 fichas, filtros por clã e patamar).
+HISTÓRIA: public/historia.html (capítulos de Hashirama, Nanashi, Shisui, Minato, Exame Chūnin e ANBU).
+ROTEIRO: public/roteiro.html (cronologia corrigida).
+
+EXPANSÃO: 46 dossiês anteriores + cinco amigos da infância (Mina, Sora, Hibiki, Natsume, Haru)
++ 49 membros ANBU originais (17 Uchiha incluindo Nanashi, 16 Senju, 16 Uzumaki) = 100 dossiês.
+
+REGRA: os Cinco são Naruto, Sasuke, Eduardo, Guilherme e Leonardo. Somente os quatro Uchiha
+possuem o Rinnegan Supremo com 20 Caminhos. Nagato conserva os seis Caminhos clássicos + Gedō.
+Neste universo a Akatsuki nunca existe; o trio da Chuva vive e forma o Pacto das Três Chuvas.
+
+CRONOLOGIA: Hashirama preserva linhagens Uzumaki → Minato salva Nanashi → Eduardo salva o
+trio da Chuva e desperta Mangekyō → Minato salva Shisui e mata Danzō → Minato mata
+Orochimaru no Exame Chūnin (mid diff) → Naruto enfrenta Gaara com ajuda do gavião de
+Guilherme → Guerra e salvamento de Neji → Vale do Fim → fundação de Yami no Sato.
+
+Todos os feitos e níveis são ficcionais, parte de um universo alternativo de fãs.
+Arquivos HTML estáticos, sem servidor nem instalação.

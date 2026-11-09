@@ -1,0 +1,19 @@
+UCHIHA ARCHIVES — EDIÇÃO 3 · OS 20 CAMINHOS
+
+COMO ABRIR
+1. Extraia todo o conteúdo do ZIP em uma pasta do computador.
+2. Abra public/index.html com Chrome, Edge ou Firefox.
+3. Explore as páginas clicando nos retratos ou no menu.
+4. Nos perfis de Eduardo, Guilherme, Leonardo e Sasuke, procure a seção "Os 20 Caminhos do Rinnegan Supremo". Clique em qualquer Caminho para expandir seu funcionamento.
+5. Os novos dossiês de Ino, Neji e outros estão em public/ninjas.html (com busca).
+6. A infância, o Vale do Fim e o resgate de Neji estão dentro de public/historia.html. O pacto institucional está em public/roteiro.html.
+
+O arquivo público e os assets estão na mesma pasta para funcionar ao abrir localmente. Nenhum processo de instalação é necessário.
+A busca da enciclopédia é executada no próprio navegador. Tipografias externas podem cair em fontes alternativas sem internet.
+Os nomes e técnicas dos caminhos 8 a 20 e personagens inéditos são criações desta fanfic; os seis caminhos tradicionais são inspirados no universo Naruto.
+
+O site é obra de fãs e não é um produto oficial Naruto.
+
+Atualização V4: 46 dossiês (22 ampliados + 24 novos) em ninjas.html, capítulo da Ponte das Três Chuvas em historia.html, revisão do Mangekyō de Eduardo e power scaling individual.
+
+Atualização V4: 46 dossiês (22 ampliados + 24 novos) em ninjas.html, capítulo da Ponte das Três Chuvas em historia.html, revisão do Mangekyō de Eduardo e power scaling individual.

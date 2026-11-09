@@ -1,0 +1,16 @@
+UCHIHA ARCHIVES — V4 · 46 Dossiês e A Chuva que Não Virou Akatsuki
+
+Abra public/index.html para começar.
+Dossiês: public/ninjas.html (46 personagens). Use a busca, selecione faixas de poder e abra cada ficha.
+História: public/historia.html#ponte-das-tres-chuvas
+Perfil Eduardo: public/eduardo.html#primeiro-mangekyo
+Cronologia: public/roteiro.html#cronologia-chuva
+
+• 22 perfis antigos preservados e muito ampliados + 24 novos.
+• Konan, Nagato e Yahiko tratados como personagens centrais.
+• A Akatsuki nunca existe nesta linha do tempo; no lugar, o Pacto das Três Chuvas.
+• Eduardo desperta Mangekyō na infância ao quase perder Konan; domínio pleno com Susanoo anos depois.
+• Nagato mantém o Rinnegan clássico, com 6 Caminhos + Gedō, não os 20 Caminhos dos quatro Uchiha.
+• Faixas e métricas de poder representam equilíbrio NESTA FICÇÃO, não dados oficiais de Naruto.
+
+Não é necessário servidor, framework nem instalação: abra o HTML em Chrome/Edge.
